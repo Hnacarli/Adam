@@ -17,6 +17,7 @@ public class mm {
         driver.manage().window().maximize();
     }
 
+
     public static void main(String[] args){
         mm script = new mm();
         script.launcher();
